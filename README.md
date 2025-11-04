@@ -1,5 +1,5 @@
 ## Hi, I am Ange Ornella Nibaruta 👋
-🔭I am currently studying to become a **Full Stack Developer**, with a focus on building modern and efficient web applications. Iam learning both **front-end** and **back-end development**, using technologies such as **Java**, **HTML**, **CSS**, **JavaScript**, and frameworks like **Spring Boot**, and **React**.
+🔭Aspiring **Full Stack Developer**, learning **front-end** and **back-end** technologies like **Java**,**Spring Boot** and **React** to build scalable, real-world web solutions 
 
 🌱**Current goals**
 - Strengthen my skills in Java and Spring Boot
