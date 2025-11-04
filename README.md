@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I am Ange Ornella Nibaruta 👋
+🔭I am currently studying to become a **Full Stack Developer**, with a focus on building modern and efficient web applications. Iam learning both **front-end** and **back-end development**, using technologies such as **Java**, **HTML**, **CSS**, **JavaScript**, and frameworks like **Spring Boot**, and **React**.
 
-<!--
-**ornella28/ornella28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱**Current goals**
+- Strengthen my skills in Java and Spring Boot
+- Build responsive front-end interface with React
+- Learn best practicies for API development and database integration
+  
+🤔 **Interests:**
+Web development, clean code, user experience, and creating solutions that make everyday task easier.
 
-Here are some ideas to get you started:
+📂**What you will find here:**
+Projects and exercises from my full stack development journey - from small coding challenges to full web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📪**Connect with me:**
+- [Linkedin](www.linkedin.com/in/ange-ornella-nibaruta-887010150)
+- Email: nibaruta.ange@gmail.com
+
+-------
+⭐Always open to learning, collaboration and new opportunities in tech!
+
+  
