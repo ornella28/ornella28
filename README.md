@@ -1,16 +1,51 @@
 ## Hi, I am Ange Ornella Nibaruta 👋
-🔭Aspiring **Full Stack Developer**, learning **front-end** and **back-end** technologies like **Java**,**Spring Boot** and **React** to build scalable, real-world web solutions 
+💻 Full Stack Java Developer | ☕ Spring Boot | ⚛️ React | 🤖 Spring AI | 🔒 Cybersecurity Background
 
-🌱**Current goals**
-- Strengthen my skills in Java and Spring Boot
-- Build responsive front-end interface with React
-- Learn best practicies for API development and database integration
+I'm a Full Stack Java Developer with hands-on experience building modern web applications using Java, Spring Boot, React, TypeScript, SQL, and AI technologies.
+
+🛠️ **Technical Skills**
+
+☕ **Backend Development**
+
+* Java
+* Spring Boot
+* Spring Data JPA
+* Spring Security
+* REST APIs
+* JWT Authentication
+* Maven
+
+⚛️ **Frontend Development**
+* React
+* TypeScript
+* JavaScript
+* HTML
+* CSS
+* Tailwind CSS
+
+🗄️ **Databases**
+* MySQL
+* H2 Database
+
+🤖 **AI & Emerging Technologies**
+* Spring AI
+* OpenAI API Integration
+* Prompt Engineering
+
+🔧 **Tools & Platforms**
+* Git & GitHub
+* IntelliJ IDEA
+* Docker
+* Postman
+* Swagger / OpenAPI
   
 🤔 **Interests:**
 Web development, clean code, user experience, and creating solutions that make everyday task easier.
 
 📂**What you will find here:**
-Projects and exercises from my full stack development journey - from small coding challenges to full web applications.
+Projects from my full stack development journey - from small coding challenges to full web applications.
+
+## 🚀 Developer Portfolio: 
 
 📪**Connect with me:**
 - [Linkedin](www.linkedin.com/in/ange-ornella-nibaruta-887010150)
