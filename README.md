@@ -45,7 +45,7 @@ Web development, clean code, user experience, and creating solutions that make e
 📂**What you will find here:**
 Projects from my full stack development journey - from small coding challenges to full web applications.
 
-## 🚀 Developer Portfolio: 
+## 🚀 Developer Portfolio: https://github.com/ornella28/developer-portfolio.git
 
 📪**Connect with me:**
 - [Linkedin](www.linkedin.com/in/ange-ornella-nibaruta-887010150)
