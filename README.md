@@ -1,57 +1,44 @@
 ## Hi, I am Ange Ornella Nibaruta 👋
-💻 Full Stack Java Developer | ☕ Spring Boot | ⚛️ React | 🤖 Spring AI | 🔒 Cybersecurity Background
+💻 Full Stack Java Developer | ☕ Spring Boot | ⚛️ React | 🤖 Spring AI | 🔒 Secure Software Development
 
-I'm a Full Stack Java Developer with hands-on experience building modern web applications using Java, Spring Boot, React, TypeScript, SQL, and AI technologies.
+I'm a Full Stack Java Developer with a background in cybersecurity and experience building modern web applications using Java, Spring Boot, React, TypeScript, SQL, and AI technologies.
+I recently completed a Full Stack Java Developer program and am currently expanding my practical experience through professional software development projects.
 
-🛠️ **Technical Skills**
+## 🛠️ Tech Stack
 
-☕ **Backend Development**
+☕ Java • Spring Boot • Spring Security • Spring AI
 
-* Java
-* Spring Boot
-* Spring Data JPA
-* Spring Security
-* REST APIs
-* JWT Authentication
-* Maven
+⚛️ React • TypeScript • JavaScript
 
-⚛️ **Frontend Development**
-* React
-* TypeScript
-* JavaScript
-* HTML
-* CSS
-* Tailwind CSS
+🗄️ MySQL • H2
 
-🗄️ **Databases**
-* MySQL
-* H2 Database
+🤖 OpenAI • Prompt Engineering
 
-🤖 **AI & Emerging Technologies**
-* Spring AI
-* OpenAI API Integration
-* Prompt Engineering
-
-🔧 **Tools & Platforms**
-* Git & GitHub
-* IntelliJ IDEA
-* Docker
-* Postman
-* Swagger / OpenAPI
+🔧 Git • Docker • Postman • Swagger
   
 🤔 **Interests:**
-Web development, clean code, user experience, and creating solutions that make everyday task easier.
+* Web development, clean code, user experience, and creating solutions that make everyday task easier.
 
 📂**What you will find here:**
-Projects from my full stack development journey - from small coding challenges to full web applications.
 
-## 🚀 Developer Portfolio: https://github.com/ornella28/developer-portfolio.git
+🚀 Featured Projects
+
+* Smart Resume Evaluator API (Spring AI & OpenAI)
+* Subscription Management Platform (Spring Security, JWT & Redis)
+* Flight Reservation System with AI Assistant
+* E-Commerce Platform (Spring Data JPA & REST APIs)
+
+See my Developer Portfolio below for project details.
+
+## 📁 Developer Portfolio
+
+🔗 [View My Portfolio Projects](https://github.com/ornella28/developer-portfolio)
 
 📪**Connect with me:**
 - [Linkedin](www.linkedin.com/in/ange-ornella-nibaruta-887010150)
 - Email: nibaruta.ange@gmail.com
 
 -------
-⭐Always open to learning, collaboration and new opportunities in tech!
+⭐ Passionate about building secure, scalable, and user-focused software solutions.
 
   
